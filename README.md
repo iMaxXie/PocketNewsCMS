@@ -1,0 +1,4 @@
+PocketNewsCMS
+=============
+
+A CMS system
